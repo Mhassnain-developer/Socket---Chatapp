@@ -5,7 +5,7 @@ import './App.css'
 import {io} from "socket.io-client"
 
 
-const SOCKET_URL = "http://localhost:5050/";
+const SOCKET_URL = "https://socket-chatapp-backend-production.up.railway.app/";
 
 let socket;
 
